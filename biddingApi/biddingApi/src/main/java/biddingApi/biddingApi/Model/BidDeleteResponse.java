@@ -10,4 +10,6 @@ public @Data class BidDeleteResponse {
 
 	private String status;
 
+	
+	
 }
